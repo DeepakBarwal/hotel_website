@@ -1,3 +1,3 @@
-# Non-Responsive Hotel_Website
+# Non-Responsive Hotel Website
 
-##Clavar La Espada
+## Clavar La Espada
