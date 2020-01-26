@@ -1,3 +1,3 @@
-# Non-Responsive Hotel Website
+# Semi-Responsive Hotel Website
 
 ## Clavar La Espada
